@@ -1,7 +1,7 @@
-# orderingFlow-BE
-
 # 환경
+
 ## Spring initializer
+
 - Spring Boot version: 3.5.6
 - language: Java
 - packaging type: Jar
@@ -9,10 +9,14 @@
 - dependencies: Spring Web, Thymeleaf
 
 # IDE
+
 ## vscode
+
 - 실행 명령어: ./gradlew bootRun
 - 접속: http://localhost:8080
+
 ## Extension
+
 - Debugger for Java
 - ESLint
 - Gradle for Java
@@ -22,3 +26,6 @@
 - Language Support for Java
 - Spring Initializr Java Support
 
+# Convention
+
+- [git 커밋 컨벤션](https://github.com/orderingFlow/orderingFlow-BE/blob/main/convention/git.md)
